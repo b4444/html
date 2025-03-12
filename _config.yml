@@ -7,6 +7,7 @@ author:
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >-
   This is awesome description.
+  
   No way.
 
 # for your new site here. You can edit this line
@@ -43,7 +44,8 @@ minima:
   # the `path` property (as represented via Liquid) of the pages in the order they should
   # be rendered.
   nav_pages:
-    - about.md
+    - about1.md
+    - about2.md
 
   # Set to `true` to show excerpts on the homepage.
   #show_excerpts: false
